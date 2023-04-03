@@ -1,4 +1,5 @@
 <?php
+//Clase = Plantilla => creamos objetos  ! compone => atributos y metodo(verbo)
 class   Curso{
 //Atributo
 //Arreglo asociativo multidimensional
