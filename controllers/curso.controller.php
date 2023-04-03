@@ -21,4 +21,7 @@ if(isset($_POST["operacion"])){
     echo json_encode($resultado);
 
   }
+  if ($_POST['operacion']=='buscarID'){
+    
+  }
 }
